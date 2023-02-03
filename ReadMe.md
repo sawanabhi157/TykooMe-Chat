@@ -22,7 +22,7 @@ ChatApp for messaging between Users. It has User Authentication and user Room Fe
 Clone the project
 
 ```bash
-  git clone https://github.com/sawanabhi157/Chat-Application
+  git clone https://github.com/sawanabhi157/Yelp-Chat
 ```
 
 Install dependencies
